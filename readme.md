@@ -1,6 +1,8 @@
 # webpanimation  
 
-Packge is binding to libwebp providing methods to create webp animations from golang `image.Image` interface
+Packge is binding to libwebp providing methods to create webp animations from golang `image.Image` interface.
+
+Current version is 1.3.2 up to commit [e78e924](e78e924f84ddcd41fc5d55583bc32f4ddc4100a3).
 
 ## Installing
 
